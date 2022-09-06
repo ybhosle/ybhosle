@@ -1,54 +1,36 @@
-# Hi there, I'm Yogesh <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+![Data GIF](https://user-images.githubusercontent.com/107353405/188682184-7c3efabb-6def-4487-87f7-fba04be23ddd.gif)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<h1 align="center">Hi 👋, I'm Yogesh Bhosle</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
-## I'm an Engineering Manager working with [AtliQ](https://atliq.com) and contributing to the youtube channel [Codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ybhosle&label=Profile%20views&color=0e75b6&style=flat" alt="ybhosle" /> </p>
 
-- 💻 I’m currently working on Python (ML+DS Stack), VueJS, NodeJS and consulting for BI solutions.
-- 📚 I’m currently learning everything about Docker, Deep Learning, MLOps. 
-- 💪🏼 Goals: Keep building solutions that help businesses thrive better, learn more technologies and help people excel at it too.
-- ⚡ Fun fact: I write poems, cook a lot of Italian and Punjabi food and play a Ukulele.
+- 🔭 I’m currently working on **SQL, Excel, Tableau**
 
----
+- 👨‍💻 All of my projects are available at [https://yogeshbhosle.dev.voyage](https://yogeshbhosle.dev.voyage)
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+- 💬 Ask me about **SQL, Excel, Python, Tableau**
 
+- 📫 How to reach me **yogeshbhosle01@gmail.com**
 
----
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1I9tSYcRrdiZwzZm1b_YVNLvX4jyJLD5K?usp=sharing](https://drive.google.com/drive/folders/1I9tSYcRrdiZwzZm1b_YVNLvX4jyJLD5K?usp=sharing)
 
-### Reach out to me 📝
+- ⚡ Fun fact **I like to cook, Reading Blogs**
 
-[<img align="left" alt="groverkds | Twitter" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="groverkds | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
-[<img align="left" alt="groverkds | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
-[<img align="left" alt="groverkds | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/itsyb1598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsyb1598" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/yogesh-bhosle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yogesh-bhosle" height="30" width="40" /></a>
+<a href="https://kaggle.com/yogesh bhosle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yogesh bhosle" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@yogeshbhosle01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yogeshbhosle01" height="30" width="40" /></a>
+</p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ybhosle&show_icons=true&locale=en&layout=compact" alt="ybhosle" /></p>
 
-### Languages and Tools 🛠 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ybhosle&show_icons=true&locale=en" alt="ybhosle" /></p>
 
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Tensorflow](https://badges.aleen42.com/src/tensorflow.svg)
-![Docker](https://badges.aleen42.com/src/docker.svg)
-![JavaScript](https://badges.aleen42.com/src/javascript.svg)
-![Vue](https://badges.aleen42.com/src/vue.svg)
-![Nodejs](https://badges.aleen42.com/src/node.svg)
-![Npm](https://badges.aleen42.com/src/npm.svg)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://badges.aleen42.com/src/gitlab.svg)
-![GitHub](https://badges.aleen42.com/src/github.svg)
-![VS Code](https://badges.aleen42.com/src/visual_studio_code.svg)
-
-<br/>
-
----
-
-### ⭐️ From [Groverkds](https://github.com/groverkds) ### 
-
----
-
-[twitter]: https://twitter.com/itsyb1598
-[linkedin]: https://www.linkedin.com/in/yogesh-bhosle/
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ybhosle&" alt="ybhosle" /></p>
