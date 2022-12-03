@@ -18,6 +18,14 @@
 
 - ⚡ Fun fact **I like to cook, Reading Blogs**
 
+<p align= "center">
+<img src="https://img.shields.io/badge/SQL-MSSQL-red"/>
+<img src="https://img.shields.io/badge/Python-python-blue"/>
+<img src="https://img.shields.io/badge/Excel-excel-green"/>
+<img src="https://img.shields.io/badge/Tableau-Visualization-blueviolet"/>
+<img src="https://img.shields.io/badge/Machine Learning-Pandas,Numpy,Seaborn,Sklearn-brightgreen"/>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itsyb1598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsyb1598" height="30" width="40" /></a>
@@ -27,7 +35,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p > <a href="https://www.w3schools.com/EXCEL/index.php" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6S9p2l3SiVBkpC8hcivRrP5EG5UcY6vBTsA&usqp=CAU" width="60" height="40"/> </a> <a href="https://www.microsoft.com/en-in/sql-server/sql-server-2019" target="_white"> <img src="https://media.istockphoto.com/vectors/icon-major-database-format-vector-icon-illustration-vector-id1298834585?k=20&m=1298834585&s=612x612&w=0&h=Ue_oKPfJjJxzF-KvXjM9EU_kqaOW_sGMqhb9Its64_w=" alt="SQL" width="60" height="40"/> </a> <a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX9KYoFpX9v-HF45IjK17OC4jhT19I55y0Fw&usqp=CAU" alt="python" width="60" height="40"/> </a> </a>  <a href="https://numpy.org/doc/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIt9kJDVZzKGcJzalTKKQeRU1tp6D3XD76IQ&usqp=CAU" alt="Numpy" width="60" height="40"/> </a> <a href="https://pandas.pydata.org/docs/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4aJry8sOhSwACBlagHu6aYRdpit3PMxtakg&usqp=CAU" alt="pandas" width="60" height="40"/>
+</a> <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS0hL87nifceik-08MulGm2XRbGjv9Q0E7Ag&usqp=CAU" alt="seaborn" width="60" height="40"/> </a> <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/359/338/png-clipart-logo-information-library-business-information-miscellaneous-blue.png" alt="sklearn" width="60" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank"> <img src="https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png" alt="Tableau" width="60" height="40"/> </a> </p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ybhosle&show_icons=true&locale=en&layout=compact" alt="ybhosle" /></p>
 
